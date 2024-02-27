@@ -1,0 +1,30 @@
+body {
+    margin: auto;
+    padding: 0;
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(75, 14, 154, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    font-family: 'Poppins', sans-serif;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    display: flex;
+}
+
+.container-fluid {
+    height: 200px;
+    width: 480px;
+    border: 1px solid white;
+    margin-top: 150px;
+    padding: 20px 45px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+@media only screen and (max-width: 600px) {
+    
+    .form {
+        width: 100%;
+    }
+    button {
+        width: 100%;
+    }
+}

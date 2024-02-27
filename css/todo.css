@@ -1,0 +1,19 @@
+.container-fluid{
+    height: 100%;
+    width: 90%;
+    border: 1px solid #BADFD7;
+    background-color: #BADFD7;
+    margin-top: 60px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.row input{
+    margin-top: 27px;
+}
+button {
+    margin-top: 27px;
+}
+table{
+  margin-top: 10px;
+  background-color:#BADFD7;
+}
