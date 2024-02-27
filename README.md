@@ -1,4 +1,4 @@
-## To-Do List Application: A Comprehensive README
+## To-Do List Application
 
 **Introduction**
 
